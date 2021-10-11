@@ -1,0 +1,3 @@
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/cmake-build-debug/CMakeFiles/Proyecto1Pr.dir
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
