@@ -128,6 +128,102 @@ Proyecto1Pr/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/build
 .PHONY : Proyecto1Pr/fast
 
+Heap.obj: Heap.cpp.obj
+.PHONY : Heap.obj
+
+# target to build an object file
+Heap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/Heap.cpp.obj
+.PHONY : Heap.cpp.obj
+
+Heap.i: Heap.cpp.i
+.PHONY : Heap.i
+
+# target to preprocess a source file
+Heap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/Heap.cpp.i
+.PHONY : Heap.cpp.i
+
+Heap.s: Heap.cpp.s
+.PHONY : Heap.s
+
+# target to generate assembly for a file
+Heap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/Heap.cpp.s
+.PHONY : Heap.cpp.s
+
+HeapMaximos.obj: HeapMaximos.cpp.obj
+.PHONY : HeapMaximos.obj
+
+# target to build an object file
+HeapMaximos.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.obj
+.PHONY : HeapMaximos.cpp.obj
+
+HeapMaximos.i: HeapMaximos.cpp.i
+.PHONY : HeapMaximos.i
+
+# target to preprocess a source file
+HeapMaximos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.i
+.PHONY : HeapMaximos.cpp.i
+
+HeapMaximos.s: HeapMaximos.cpp.s
+.PHONY : HeapMaximos.s
+
+# target to generate assembly for a file
+HeapMaximos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.s
+.PHONY : HeapMaximos.cpp.s
+
+HeapMinimos.obj: HeapMinimos.cpp.obj
+.PHONY : HeapMinimos.obj
+
+# target to build an object file
+HeapMinimos.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.obj
+.PHONY : HeapMinimos.cpp.obj
+
+HeapMinimos.i: HeapMinimos.cpp.i
+.PHONY : HeapMinimos.i
+
+# target to preprocess a source file
+HeapMinimos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.i
+.PHONY : HeapMinimos.cpp.i
+
+HeapMinimos.s: HeapMinimos.cpp.s
+.PHONY : HeapMinimos.s
+
+# target to generate assembly for a file
+HeapMinimos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.s
+.PHONY : HeapMinimos.cpp.s
+
+Nodo.obj: Nodo.cpp.obj
+.PHONY : Nodo.obj
+
+# target to build an object file
+Nodo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.obj
+.PHONY : Nodo.cpp.obj
+
+Nodo.i: Nodo.cpp.i
+.PHONY : Nodo.i
+
+# target to preprocess a source file
+Nodo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.i
+.PHONY : Nodo.cpp.i
+
+Nodo.s: Nodo.cpp.s
+.PHONY : Nodo.s
+
+# target to generate assembly for a file
+Nodo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.s
+.PHONY : Nodo.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +257,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Proyecto1Pr
+	@echo ... Heap.obj
+	@echo ... Heap.i
+	@echo ... Heap.s
+	@echo ... HeapMaximos.obj
+	@echo ... HeapMaximos.i
+	@echo ... HeapMaximos.s
+	@echo ... HeapMinimos.obj
+	@echo ... HeapMinimos.i
+	@echo ... HeapMinimos.s
+	@echo ... Nodo.obj
+	@echo ... Nodo.i
+	@echo ... Nodo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

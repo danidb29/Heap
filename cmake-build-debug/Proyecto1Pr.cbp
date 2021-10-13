@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.cpp">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.h">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMaximos.cpp">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMaximos.h">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMinimos.cpp">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMinimos.h">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.cpp">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.h">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
 		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/main.cpp">
 			<Option target="Proyecto1Pr"/>
 		</Unit>

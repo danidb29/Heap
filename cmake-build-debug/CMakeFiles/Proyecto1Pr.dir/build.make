@@ -78,19 +78,79 @@ CMakeFiles/Proyecto1Pr.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1Pr.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\main.cpp -o CMakeFiles\Proyecto1Pr.dir\main.cpp.s
 
+CMakeFiles/Proyecto1Pr.dir/Heap.cpp.obj: CMakeFiles/Proyecto1Pr.dir/flags.make
+CMakeFiles/Proyecto1Pr.dir/Heap.cpp.obj: ../Heap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proyecto1Pr.dir/Heap.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1Pr.dir\Heap.cpp.obj -c C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\Heap.cpp
+
+CMakeFiles/Proyecto1Pr.dir/Heap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1Pr.dir/Heap.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\Heap.cpp > CMakeFiles\Proyecto1Pr.dir\Heap.cpp.i
+
+CMakeFiles/Proyecto1Pr.dir/Heap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1Pr.dir/Heap.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\Heap.cpp -o CMakeFiles\Proyecto1Pr.dir\Heap.cpp.s
+
+CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.obj: CMakeFiles/Proyecto1Pr.dir/flags.make
+CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.obj: ../Nodo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1Pr.dir\Nodo.cpp.obj -c C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\Nodo.cpp
+
+CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\Nodo.cpp > CMakeFiles\Proyecto1Pr.dir\Nodo.cpp.i
+
+CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\Nodo.cpp -o CMakeFiles\Proyecto1Pr.dir\Nodo.cpp.s
+
+CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.obj: CMakeFiles/Proyecto1Pr.dir/flags.make
+CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.obj: ../HeapMaximos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1Pr.dir\HeapMaximos.cpp.obj -c C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\HeapMaximos.cpp
+
+CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\HeapMaximos.cpp > CMakeFiles\Proyecto1Pr.dir\HeapMaximos.cpp.i
+
+CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\HeapMaximos.cpp -o CMakeFiles\Proyecto1Pr.dir\HeapMaximos.cpp.s
+
+CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.obj: CMakeFiles/Proyecto1Pr.dir/flags.make
+CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.obj: ../HeapMinimos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proyecto1Pr.dir\HeapMinimos.cpp.obj -c C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\HeapMinimos.cpp
+
+CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\HeapMinimos.cpp > CMakeFiles\Proyecto1Pr.dir\HeapMinimos.cpp.i
+
+CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\HeapMinimos.cpp -o CMakeFiles\Proyecto1Pr.dir\HeapMinimos.cpp.s
+
 # Object files for target Proyecto1Pr
 Proyecto1Pr_OBJECTS = \
-"CMakeFiles/Proyecto1Pr.dir/main.cpp.obj"
+"CMakeFiles/Proyecto1Pr.dir/main.cpp.obj" \
+"CMakeFiles/Proyecto1Pr.dir/Heap.cpp.obj" \
+"CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.obj" \
+"CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.obj" \
+"CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.obj"
 
 # External object files for target Proyecto1Pr
 Proyecto1Pr_EXTERNAL_OBJECTS =
 
 Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/main.cpp.obj
+Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/Heap.cpp.obj
+Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/Nodo.cpp.obj
+Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/HeapMaximos.cpp.obj
+Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.obj
 Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/build.make
 Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/linklibs.rsp
 Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/objects1.rsp
 Proyecto1Pr.exe: CMakeFiles/Proyecto1Pr.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Proyecto1Pr.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\danid\OneDrive\Documentos\Datos\Proyecto1Pr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Proyecto1Pr.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Proyecto1Pr.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
