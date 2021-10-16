@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.cpp
+Heap.h
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.h
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.h
+Nodo.cpp
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.cpp
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMaximos.cpp
+HeapMaximos.h
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMaximos.h
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMaximos.h
+Heap.cpp
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.cpp
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMinimos.cpp
+HeapMinimos.h
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMinimos.h
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMinimos.h
+Heap.cpp
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Heap.cpp
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.cpp
+Nodo.h
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.h
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.h
+
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/main.cpp
+iostream
+-
+HeapMaximos.cpp
+C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMaximos.cpp
+
