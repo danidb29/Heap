@@ -1,5 +1,6 @@
 #include <iostream>
 #include "HeapMaximos.cpp"
+#include "ListaDoble.cpp"
 int main() {
     HeapMaximos<int> hpT;
 
