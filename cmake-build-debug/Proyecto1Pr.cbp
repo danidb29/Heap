@@ -98,6 +98,12 @@
 		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/HeapMinimos.h">
 			<Option target="Proyecto1Pr"/>
 		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/ListaDoble.cpp">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
+		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/ListaDoble.h">
+			<Option target="Proyecto1Pr"/>
+		</Unit>
 		<Unit filename="C:/Users/danid/OneDrive/Documentos/Datos/Proyecto1Pr/Nodo.cpp">
 			<Option target="Proyecto1Pr"/>
 		</Unit>

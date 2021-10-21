@@ -67,6 +67,9 @@ Nodo<tipo>* Heap<tipo>::hijo(bool op, Nodo<tipo> *actual) {
     if (op){
         hijo = pos*2+1;
         while(pos < hijo){
+            if(tmp == nullptr){
+                return nullptr;
+            }
             tmp = tmp->getNext();
             pos++;
         }
@@ -74,6 +77,9 @@ Nodo<tipo>* Heap<tipo>::hijo(bool op, Nodo<tipo> *actual) {
     }
     hijo = 2*pos+2;
     while(pos < hijo){
+        if(tmp == nullptr){
+            return nullptr;
+        }
         tmp = tmp->getNext();
         pos++;
     }

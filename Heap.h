@@ -5,6 +5,7 @@
 #ifndef PROYECTO1PR_HEAP_H
 #define PROYECTO1PR_HEAP_H
 #include "Nodo.cpp"
+#include "ListaDoble.cpp"
 template <class tipo>
 class Heap {
 public:
@@ -20,13 +21,17 @@ public:
 
     void setFinal(Nodo<tipo> *final);
 
-    //virtual void heapify(Nodo<tipo> *actual) = 0;
+    virtual void heapify(Nodo<tipo> *actual) = 0;
 
     virtual void insertar(tipo nuevo) = 0;
 
+    virtual void swap(Nodo<tipo> *nodo, Nodo<tipo> *nodo2) = 0;
+
+    virtual Heap<tipo> crearHeap(ListaDoble<tipo> *listaDoble) = 0;
+
     Nodo<tipo>* posicion(Nodo<tipo> *actual, int &pos);
 
-    Nodo<tipo>* hijo(bool op, Nodo<tipo> *actual); //true hijo Der False hijo Izq
+    Nodo<tipo>* hijo(bool op, Nodo<tipo> *actual); //true hijo Izq False hijo Der
 
     Nodo<tipo>* padre(Nodo<tipo> *actual);
 private:

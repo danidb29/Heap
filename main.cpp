@@ -16,7 +16,12 @@ int main() {
     hpT.insertar(25);
     hpT.insertar(89);
 
-    hpT.borrar();
+//    hpT.borrar();
+//    hpT.borrar();
+//    hpT.borrar();
+//    hpT.borrar();
+
+
 
 
 

@@ -14,6 +14,9 @@ public:
     bool compara(tipo &obj1, tipo &obj2);
     void insertar(tipo nuevo);
     void borrar();
+    void heapify(Nodo<tipo> *actual);
+    void swap(Nodo<tipo> *nodo, Nodo<tipo> *nodo2);
+    HeapMaximos<tipo> crearHeap(ListaDoble<tipo> *listaDoble);
 };
 
 

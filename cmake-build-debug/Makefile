@@ -200,6 +200,30 @@ HeapMinimos.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/HeapMinimos.cpp.s
 .PHONY : HeapMinimos.cpp.s
 
+ListaDoble.obj: ListaDoble.cpp.obj
+.PHONY : ListaDoble.obj
+
+# target to build an object file
+ListaDoble.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/ListaDoble.cpp.obj
+.PHONY : ListaDoble.cpp.obj
+
+ListaDoble.i: ListaDoble.cpp.i
+.PHONY : ListaDoble.i
+
+# target to preprocess a source file
+ListaDoble.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/ListaDoble.cpp.i
+.PHONY : ListaDoble.cpp.i
+
+ListaDoble.s: ListaDoble.cpp.s
+.PHONY : ListaDoble.s
+
+# target to generate assembly for a file
+ListaDoble.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto1Pr.dir\build.make CMakeFiles/Proyecto1Pr.dir/ListaDoble.cpp.s
+.PHONY : ListaDoble.cpp.s
+
 Nodo.obj: Nodo.cpp.obj
 .PHONY : Nodo.obj
 
@@ -266,6 +290,9 @@ help:
 	@echo ... HeapMinimos.obj
 	@echo ... HeapMinimos.i
 	@echo ... HeapMinimos.s
+	@echo ... ListaDoble.obj
+	@echo ... ListaDoble.i
+	@echo ... ListaDoble.s
 	@echo ... Nodo.obj
 	@echo ... Nodo.i
 	@echo ... Nodo.s
